@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  FutureWeatherViewController.h
 //  Weather
 //
 //  Created by Jessie Serrino on 3/9/15.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface FutureWeatherViewController : UITableViewController
 
 @end
-
